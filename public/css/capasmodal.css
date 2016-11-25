@@ -1,0 +1,18 @@
+.div_contenido {
+  background-color: #ecf0f5;
+  box-shadow: 0 0 20px 0 #222;
+  -webkit-box-shadow: 0 0 20px 0 #222;
+  -moz-box-shadow: 0 0 20px 0 #222;
+  display: none;
+  height: 70%;
+  margin-left: 2%;
+  margin-right: 2%;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  position: absolute;
+  top: 10%;
+  width: 80%;
+  min-height: 70%;
+  z-index: 830;
+}
